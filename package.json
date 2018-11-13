@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hugomd/build-a-command-line-chat-app-with-chatkit.git"
+    "url": "git+git@github.com:adelowo/chatkit-command-line-chat.git"
   },
   "contributors": [
     {
